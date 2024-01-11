@@ -1,0 +1,10 @@
+oliver:o:l:false
+numbers:n:u:false
+he@@*llo:h:e:false
+listen:l:n:false
+tea:t:a:false
+oliver :tea:eat:true
+o@:o:o:true
+hey:listen:silent:true
+oliver:james:xob:false
+ollie:oj:jo:true
